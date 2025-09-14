@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there, I'm Sergey
+🚀 About Me
 
-<!--
-**GrimRoge/GrimRoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working as a Head of Technical Support & Testing
 
-Here are some ideas to get you started:
+Recently started a course: AI Developer with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have some experience with JavaScript
+
+Passionate about learning and building cool things with code
+
+🎯 Goals for 2025
+
+Learn to create Telegram bots
+
+Build websites and applications
+
+Dive deeper into AI development with Python
+
+🕹️ Hobbies
+
+Sports 🏋️‍♂️
+
+Computer games 🎮
